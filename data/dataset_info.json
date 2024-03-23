@@ -1,8 +1,10 @@
 {
+  "us_medical_license_exam_textbooks_en": {
+  "hf_hub_url": "Medilora/us_medical_license_exam_textbooks_en"
+  },
   "oncc_medqa_instruct": {
   "hf_hub_url": "chenhugging/oncc_medqa_instruct"
   },
-    
   "oncc_instruct": {
   "hf_hub_url": "chenhugging/oncc_instruct"
   },
